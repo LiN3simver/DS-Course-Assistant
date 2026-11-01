@@ -1,0 +1,12 @@
+{
+  "name": "scu-study-companion-tests",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Optional DOM tests for the buildless local frontend",
+  "scripts": {
+    "test": "node --test tests/frontend.test.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0"
+  }
+}

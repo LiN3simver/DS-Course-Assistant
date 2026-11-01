@@ -1,0 +1,926 @@
+[
+    {
+        "course_code": "BBD10901",
+        "course_name": "社群媒體行銷    遠距教學",
+        "teacher": "黃孝淳",
+        "average_score": 75.75,
+        "score_distribution": {
+            "0~49": "10",
+            "75~79": "17",
+            "50~59": "2",
+            "80~84": "26",
+            "60~64": "4",
+            "85~89": "21",
+            "65~69": "7",
+            "90~94": "14",
+            "70~74": "14",
+            "95~100": "3"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程致力於深入探討社群媒體的操作技巧與經營策略，主要關注於業內廣泛使用的平台，包括Facebook、Google 商家、部落格和LINE。學生將透過學習從基本操作到高級行銷技巧的全方位知識，以應用這些技能提升企業品牌的知名度和行銷效果。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/8\n社群媒體行銷介紹 授課方式 成績計算 作業規範 期中期末考等相關資訊\n同步 第一堂直播連結 https://meet.google.com/wdy-mmir-kov\n2\n9/15\n課程相關說明及行銷觀念與架構建立\n同步\n3\n9/22\n社群行銷總論(上)\n4\n9/29\n社群行銷總論(下)\n5\n10/6\nfacebook粉專經營(上)\n6\n10/13\nfacebook粉專經營(下)\n7\n10/20\ngoogle商家經營(上)\n同步\n8\n10/27\ngoogle商家經營(中)\n9\n11/3\n期中考\n同步\n10\n11/10\ngoogle商家經營(下)\n11\n11/17\n部落格行銷(上)\n12\n11/24\n部落格行銷(中)\n13\n12/1\n部落格行銷(下)\n同步\n14\n12/8\nline官方帳號經營(上)\n15\n12/15\nline官方帳號經營(中)\n16\n12/22\nline官方帳號經營(下)\n同步\n17\n12/29\n社群行銷案例分析\n18\n1/5\n期末報告繳交",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n平時作業\n40%\n期中考\n30%\n期末考\n30%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BBD11201",
+        "course_name": "互動科技    遠距教學",
+        "teacher": "吳政隆",
+        "average_score": 85.97,
+        "score_distribution": {
+            "0~49": "7",
+            "75~79": "1",
+            "50~59": "0",
+            "80~84": "0",
+            "60~64": "8",
+            "85~89": "4",
+            "65~69": "1",
+            "90~94": "10",
+            "70~74": "1",
+            "95~100": "62"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程以淺顯易懂的教學方式，搭配實作演練，修完本課程的學生將可學習到以下課程內容:\n1. 跨系所分組及專題實作討論\n2. 聊天機器人設計平台演練(Google、Microsoft、Line、Facebook)\n3. 對話腳本設計與演練\n4. 現場指導小組製作聊天機器人專案\n5. 階段性測驗學生所學之技能是否上手\n6. 本課程小組專題成果報告，包含專題期中提案、進度與期末展示\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/12\n課程簡介與說明\n2\n9/19\n解析聊天機器人製作流程與設計邏輯\n3\n9/26\nGoogle Dialogflow平台簡介\n4\n10/3\nLINE Messaging平台簡介\n5\n10/10\nFacebook Messenger 平台簡介\n6\n10/17\n對話管理流程設計 (Intent)\n7\n10/24\n對話管理流程設計 (Intent)\n8\n10/31\n期中小組專題提案\n9\n11/7\n對話管理流程設計 (Entity)\n10\n11/14\n對話管理流程設計 (Entity)\n11\n11/21\n期中小組專題進度報告\n12\n11/28\n對話管理流程設計 (錯誤修正與微調)\n13\n12/5\n整合與外部 API 服務擴充進階功能\n14\n12/12\n整合與外部 API 服務擴充進階功能\n15\n12/19\n整合與各社群多媒體平台串接\n16\n12/26\n期末小組專題成果報告\n17\n1/2\n期末小組專題成果報告\n18\n1/9\n補充教學（討論）",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n4\n10%\n報告\n3\n40%\n包含提案、進度和成果\n自主學習\n1\n50%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BBD11301",
+        "course_name": "ＧＡ應用與網站數據分析    遠距教學",
+        "teacher": "鄭江宇",
+        "average_score": 92.8,
+        "score_distribution": {
+            "0~49": "1",
+            "75~79": "2",
+            "50~59": "1",
+            "80~84": "6",
+            "60~64": "0",
+            "85~89": "7",
+            "65~69": "0",
+            "90~94": "11",
+            "70~74": "0",
+            "95~100": "48"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n※ 本課程需自備筆電於線上參與課程，課程以Windows作業系統為主。\n※ 使用Mac同學若遭遇相容性問題請自行排除\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/10\n課程介紹 第一週上課會議網址: https://teams.microsoft.com/l/meetup-join/19%3aoNZ_Ns9MIAyfCxdHLd4r1UFRhxxJ5aKmOxGSN3xsOQc1%40thread.tacv2/1757371801585?context=%7b%22Tid%22%3a%2286254269-e4d3-4c53-bc98-640752566d31%22%2c%22Oid%22%3a%22fb30434e-32f4-4945-8fb6-694cc764f4f1%22%7d\n2\n9/17\nClient & Server基礎概念、網站程式碼結構\n3\n9/24\n網站建置\n4\n10/1\nGA4事件追蹤-1\n5\n10/8\nGA4事件追蹤-2\n6\n10/15\nGTM環境安裝與建置、透過GTM設置GA4事件追蹤\n7\n10/22\nGA4目標轉換、GA4流量渠道分析(utm)\n8\n10/29\nGA4實驗A/B testing實作\n9\n11/5\n期中考\n10\n11/12\nGA4證照試題詳解 (1)\n11\n11/19\nGA4證照試題詳解 (2)\n12\n11/26\nGA4證照試題詳解 (3)\n13\n12/3\nGA4 Certification 線上考照\n14\n12/10\nSEO與GA4之間的關聯性與實作-1\n15\n12/17\nSEO與GA4之間的關聯性與實作-2\n16\n12/24\n行憲紀念日停課乙次\n17\n12/31\n期末考、課堂反應問卷\n18\n1/7\n補充教學: GA4 電子商務追蹤實作",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n課後作業\n20%\n期中考\n30%\n期末考\n30%\n校內外競賽\n10%\nGA考照分數\n10%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BSP17144",
+        "course_name": "國文    ４４資科Ａ",
+        "teacher": "譚惠文",
+        "average_score": 77.65,
+        "score_distribution": {
+            "0~49": "5",
+            "75~79": "5",
+            "50~59": "4",
+            "80~84": "10",
+            "60~64": "0",
+            "85~89": "11",
+            "65~69": "2",
+            "90~94": "8",
+            "70~74": "1",
+            "95~100": "6"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n為培育學生的中文思辯、表達能力，在各式主題之下，開展生活、文化、愛情、家庭、社會、族群、環境、時代……等議題，聚焦討論。以「課文講授─主題潛思─摹習表達（展演）/寫作─閱改回饋」的教學流程，思辯各式議題，讓同學不斷與經典、自身、社會反覆對話，誘導思辯力，訓練、提升屬於大學的高層次思考能力。\n課程設計如下：\n111-1學期中文閱讀與口語表達\n（一）自我表達：生命的省思與分享\n（二）說話策略：說話表達與接受對象\n（三）表達修飾：寓言、故事與口語表達\n（四）說話應用：演講與採訪報導\n111-2學期中文閱讀與書寫\n（一）故事書寫--傳記人物的生命歷程\n（二）飲食書寫--家族記憶與生活品味\n（三）身體書寫--形貌與靈魂的對話\n（四）情感書寫--婚戀、親情的糾纏綢繆\n選文包含古典文學、現代文學以及應用文，每個單元收錄四篇文章，同時亦收錄書信、公文等應用文撰寫方式，共17篇文章供指定授課與指定閱讀使用。\n●\n分週敘述 Weekly Schedule",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n14%\n六次十二節未到學期成績不及格(請假加上缺課合併計算)；上課二十分鐘內未進教室，該堂課列為缺席；請假者要完成請假手續，否則該堂課視為缺席 (請假請事先或事後2週內，以學校假單或A4大小紙，寫明請假日期、課程名稱、學號、系級、姓名、請假類別)。\n平時作業\n5\n70%\n(口語表達錄音1；2-3分鐘)(14%)、(作文2) (14%)、 (作文3)(14%)、 (作文4) (14%)、(上課小組討論、上課發言)(5) (14%)\n學期考\n16%\n期末考(16%)\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BSP17145",
+        "course_name": "國文    ４５資科Ｂ",
+        "teacher": "李少恩",
+        "average_score": 71.73,
+        "score_distribution": {
+            "0~49": "3",
+            "75~79": "13",
+            "50~59": "0",
+            "80~84": "8",
+            "60~64": "8",
+            "85~89": "6",
+            "65~69": "9",
+            "90~94": "2",
+            "70~74": "4",
+            "95~100": "0"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n為培育學生的中文思辯、表達能力，在各式主題之下，開展生活、文化、愛情、家庭、社會、族群、環境、時代等議題，聚焦討論。以「課文講授─主題潛思─摹習表達（展演）/寫作─閱改回饋」的教學流程，思辯各式議題，讓同學不斷與經典、自身、社會反覆對話，誘導思辯力，訓練、提升屬於大學的高層次思考能力。，故本學期的課程設計如下：\n中文閱讀與口語表達\n（一）自我表達：生命的省思與分享\n（二）說話策略：說話表達與接受對象\n（三）表達修飾：寓言、故事與口語表達\n（四）說話應用：演講與採訪報導\n選文包含古典文學、現代文學以及應用文，每個單元收錄四篇文章，同時亦收錄書信、公文等應用文撰寫方式，共17篇文章供指定授課與指定閱讀使用。\nIn order to cultivate students' thinking and expression ability, under various themes, carry out life, culture, love, family, society, ethnic groups, environment, times... and other topics, focusing on the discussion. To the text teaching - theme meditation - learning expression (exhibition) / writing - reading and giving back\" teaching process, thinking about various topics, let students continue to talk with the classic, self, society repeatedly, induce thinking, training, enhance the high-level thinking ability belonging to the university, so the course design for this semester is as follows:\nChinese reading and oral expression\n(1) Self-expression: the thought and sharing of life\n(2) Speech strategy: the object of expression and acceptance\n(3) Expression modification: fables, stories and spoken expressions\n(4) Speech Application: Negotiation, Speech and Interview Report\nThe selection includes classical literature, modern literature and applied texts, each unit contains four articles, but also includes letters, documents and other applications written, a total of 17 articles for designated teaching and designated reading use.\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/8\n授課大綱及作業繳交方式講解\n2\n9/15\n報告及論文寫作概要\n3\n9/22\n張曼娟：〈燕子在操場練飛〉\n作文、口語表達繳交\n4\n9/29\n教師節補假\n5\n10/6\n中秋節放假\n6\n10/13\n張曼娟：〈燕子在操場練飛〉、阿盛：〈外雙溪人民公社〉\n7\n10/20\n阿盛：〈外雙溪人民公社〉、夏曼‧藍波安：〈在冬季的海上我一個人旅行〉\n8\n10/27\n夏曼‧藍波安：〈在冬季的海上我一個人旅行〉\n9\n11/3\n期中考\n不考試改以報告替代評分\n10\n11/10\n孫梓評：〈家族之旅，昨日重現〉\n11\n11/17\n孫梓評：〈家族之旅，昨日重現〉\n12\n11/24\n黃之雋〈虎媼傳〉\n13\n12/1\n〈觸龍說趙太后〉\n14\n12/8\n〈觸龍說趙太后〉\n作文、口語表達繳交\n15\n12/15\n電影欣賞及分析\n16\n12/22\n電影欣賞及分析、考前複習\n17\n12/29\n學期考\n18\n1/5\n學期總結\n彈性上課",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n平時作業\n4\n40%\n一、本學期需撰寫兩篇主題作文，每篇各佔學期總成績10分，共計20分；作文遲交會視情況扣分，遲交一個月不收；嚴禁抄襲(含網路文章、範文、ChatGPT生成文章），違者以0分計算。\n二、本學期需錄製口語表達音檔兩份評分表，每份各佔學期總成績10分，共計20分。\n學期考\n1\n30%\n嚴禁作弊，經發現者，該次考試成績以0分計算。\n報告\n1\n30%\n以指定文本撰寫閱讀心得，嚴禁抄襲(含網路文章、範文、ChatGPT生成文章），違者以0分計算。\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD10201",
+        "course_name": "程式設計（一）",
+        "teacher": "金凱儀",
+        "average_score": 71.53,
+        "score_distribution": {
+            "0~49": "8",
+            "75~79": "6",
+            "50~59": "4",
+            "80~84": "10",
+            "60~64": "1",
+            "85~89": "13",
+            "65~69": "7",
+            "90~94": "6",
+            "70~74": "7",
+            "95~100": "0"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程旨在通過講解Python程式語言的架構，並輔以上機操作的方式，來加強學生對Python的理解，提升其運算與邏輯思維能力，讓學生在實務練習中，實作出相關的Python應用範例，以鞏固所學知識。此外，課程還安排了分組討論、企劃與報告等活動，促進學生間的合作學習，讓其通過專題企劃與報告的形式來展示學習成果，從而提升其綜合應用與表達能力。\n【本課程屬資訊能力列抵課程,內含至少12小時運算思維及程式設計內容】\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/11\n⚫課程簡介、授課方法、成績計算、分組方式等相關資訊說明。\n⚫程式設計基礎認知考試和問卷調查。\n⚫瞭解Python的執行環境，並初步練習撰寫程式。\n⚫認識Python的變數的運用方式，並進行數學運算的語法和程式撰寫練習。\n2\n9/18\n理解Python的基本資料型態與運用方式。\n3\n9/25\n熟悉Python的輸入與輸出的語法，並練習相關處理方式。\n4\n10/2\n理解Python的條件判斷方式，並進行程式語法練習。\n完成學習單(1)\n5\n10/9\n探究式分組討論活動(1)\n完成討論工作、討論單和上台報告。\n完成討論單和簡報內容(1)\n6\n10/16\n認識 Python 的串列(List)物件，並練習相關的處理方式。\n7\n10/23\n理解 Python 的邏輯判斷與迴圈設計，並進行實際範例的語法練習與開發工作。\n8\n10/30\n講解 Python 的字典(dict)運用之相關內容，並進行實際範例的語法練習與開發工作。\n完成學習單(2)\n9\n11/6\n探究式分組討論活動(2)\n完成討論工作、討論單和上台報告。\n完成討論單和簡報內容(2)\n10\n11/13\n認識Python函數的設計方式，並練習相關函數與物件的處理方式。\n11\n11/20\n認識Vibe Coding和使用方式(1)\n業師授課\n12\n11/27\n認識Vibe Coding和使用方式(2)\n完成學習單(3)\n業師授課\n13\n12/4\n認識Vibe Coding和使用方式(3)\n業師授課\n14\n12/11\n認識Vibe Coding和使用方式(4)\n業師授課\n15\n12/18\n期末上機考試，並填寫後測問卷。\n16\n12/25\n聖誕節放假\n17\n1/1\n新年放假\n18\n1/8\n課程總整與反思(1/6證照考試) 。\n1/6選擇性參與",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n個人學習單\n3\n20%\n實習表現\n1\n10%\n含出席和作業部份\n期末上機考試\n1\n10%\n學習表現\n1\n15%\n含出席和課堂作業等\n小組討論單\n3\n20%\n組內互評\n1\n10%\n小組合作表現\n1\n10%\n填寫問卷\n1\n5%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD10401",
+        "course_name": "巨量資料概論",
+        "teacher": "張宗銓",
+        "average_score": 64.19,
+        "score_distribution": {
+            "0~49": "10",
+            "75~79": "6",
+            "50~59": "0",
+            "80~84": "9",
+            "60~64": "11",
+            "85~89": "7",
+            "65~69": "9",
+            "90~94": "1",
+            "70~74": "12",
+            "95~100": "3"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\nPart 1: Introduction to the course and data science process\nPart 2: Introduction to information tools related to the data science process\nPart 3: Case studies and Term Project Presentation\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/9,\nIntroduction to Course\n2\n9/16,9/17\nData Science and Big Data Analytics\n3\n9/23,\nData Preparation\n4\n9/30,10/1\nCase Study: Data Preparation\n5\n10/7,\nData Exploration\n6\n10/14,10/15\nCase Study: Data Exploration\n7\n10/21,\nBasic in AI\n8\n10/28,10/29\nApplications of Big Data\n9\n11/4,\nMidterm Exam\n10\n11/11,11/12\nIntroduction in Linux\n11\n11/18,\nLinux in Practice\n12\n11/25,11/26\nIntroduction in Docker\n13\n12/2,\nDocker in Practice\n14\n12/9,12/10\nCase Study:Big Data (1)\n15\n12/16,\nCase Study:Big Data (2)\n16\n12/23,12/24\nCase Study:Big Data (3)\n17\n12/30,\nFinal Exam\n18\n1/6,1/7\nCourse Reflection",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n5\n10%\n報告\n1\n30%\n分組作業\n1\n30%\n課堂討論\n2\n30%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD10601",
+        "course_name": "計算機概論",
+        "teacher": "邱嘉豪",
+        "average_score": 70.11,
+        "score_distribution": {
+            "0~49": "10",
+            "75~79": "12",
+            "50~59": "2",
+            "80~84": "10",
+            "60~64": "6",
+            "85~89": "13",
+            "65~69": "3",
+            "90~94": "2",
+            "70~74": "2",
+            "95~100": "1"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/10,9/11\n分組與課程介紹\n2\n9/18\n介紹現代科技：計算機、設備和網絡\n3\n9/24,9/25\n數字系統與資料表示法\n9/22 助教課\n4\n10/2\n軟體與作業系統\n5\n10/8,10/9\n網絡與網際網路技術\n10/6 助教課放假\n6\n10/16\n資訊安全\n小考\n7\n10/22,10/23\n計算機結構與運算元件\n10/20 助教課\n8\n10/30\n基礎程式設計 (Python)\n9\n11/5,11/6\n期中考\n期中考\n10\n11/13\n基礎程式設計 (Python)\n11\n11/19,11/20\n終端機,Github 練習\n11/17 助教課\n12\n11/27\n資料結構\n13\n12/3,12/4\n演算法\n小考\n14\n12/11\n資料庫\n15\n12/17,12/18\n期末考\n期末考\n16\n12/25\n聖誕節放假\n17\n12/31,1/1\n期末專案報告\n18\n1/8\n期末專案報告",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n期中考\n1\n30%\n期末考\n1\n30%\n課堂小組討論\n1\n10%\n期末專案報告\n1\n30%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD10901",
+        "course_name": "微積分（一）",
+        "teacher": "鄭宏文",
+        "average_score": 65.68,
+        "score_distribution": {
+            "0~49": "16",
+            "75~79": "10",
+            "50~59": "5",
+            "80~84": "7",
+            "60~64": "4",
+            "85~89": "3",
+            "65~69": "5",
+            "90~94": "1",
+            "70~74": "6",
+            "95~100": "6"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n我們將介紹微積分的理論與應用，進度與範圍包含functions, limits, the derivative, differentiation, applications of the derivative, exponential and logarithmic functions及integration。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/9,9/11\nCh2.4 Limits\n2\n9/18\nCh2.5 One-Sided limits and Continuity\n3\n9/23,9/25\nCh2.6 The Derivative\n4\n10/2\n第一次小考（範圍：Ch2.4, Ch2.5, Ch2.6）\n5\n10/7,10/9\nCh3 Differentiation (Ch3.1, Ch3.2)\n6\n10/16\nCh3 Differentiation (Ch3.3, Ch3.5)\n7\n10/21,10/23\nCh3 Differentiation (Ch3.6, Ch3.7）\n8\n10/30\n期中考（範圍：Ch3.1, Ch3.2, Ch3.3, Ch3.5, Ch3.6, Ch3.7）\n9\n11/4,11/6\nCh4 Applications of the First and Second Derivative (Ch4.1, Ch4.2)\n10\n11/13\nCh4.3 Curve Sketching\n11\n11/18,11/20\nCh4.4 Optimization I\n12\n11/27\n第二次小考（範圍：Ch4.1, Ch4.2, Ch4.3, Ch4.4）\n13\n12/2,12/4\nCh5 Exponential and Logarithmic Functions (Ch5.1, Ch5.2)\n14\n12/11\nCh5.4 Differentiation of Exponential Functions\n15\n12/16,12/18\nCh5.5 Differentiation of Logarithmic Functions\n16\n12/25\n聖誕節\n17\n12/30,1/1\n期末考 (範圍:Ch5.1, Ch5.2, Ch5.4, Ch5.5),元旦\n18\n1/8\n教師彈性補充教學",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10%\n平時作業\n10%\n隨堂考\n2\n30%\n期中考\n1\n15%\n學期考\n1\n15%\n助教實習課\n20%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BSP99070",
+        "course_name": "系會時間",
+        "teacher": "未知",
+        "average_score": null,
+        "score_distribution": {},
+        "syllabus": {
+            "content": "無資料",
+            "grading": "無資料"
+        }
+    },
+    {
+        "course_code": "BSP99770",
+        "course_name": "體育",
+        "teacher": "未知",
+        "average_score": null,
+        "score_distribution": {},
+        "syllabus": {
+            "content": "無資料",
+            "grading": "無資料"
+        }
+    },
+    {
+        "course_code": "BDD10202",
+        "course_name": "程式設計（一）",
+        "teacher": "金凱儀",
+        "average_score": 74.1,
+        "score_distribution": {
+            "0~49": "6",
+            "75~79": "9",
+            "50~59": "2",
+            "80~84": "11",
+            "60~64": "2",
+            "85~89": "17",
+            "65~69": "6",
+            "90~94": "3",
+            "70~74": "11",
+            "95~100": "1"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程旨在通過講解Python程式語言的架構，並輔以上機操作的方式，來加強學生對Python的理解，提升其運算與邏輯思維能力，讓學生在實務練習中，實作出相關的Python應用範例，以鞏固所學知識。此外，課程還安排了分組討論、企劃與報告等活動，促進學生間的合作學習，讓其通過專題企劃與報告的形式來展示學習成果，從而提升其綜合應用與表達能力。\n【本課程屬資訊能力列抵課程,內含至少12小時運算思維及程式設計內容】\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/9\n⚫課程簡介、授課方法、成績計算、分組方式等相關資訊說明。\n⚫程式設計基礎認知考試和問卷調查。\n⚫瞭解Python的執行環境，並初步練習撰寫程式。\n⚫認識Python的變數的運用方式，並進行數學運算的語法和程式撰寫練習。\n2\n9/16\n理解Python的基本資料型態與運用方式。\n3\n9/23\n熟悉Python的輸入與輸出的語法，並練習相關處理方式。\n4\n9/30\n理解Python的條件判斷方式，並進行程式語法練習。\n完成學習單(1)\n5\n10/7\n探究式分組討論活動(1)\n完成討論工作、討論單和上台報告。\n完成討論單和簡報內容(1)\n6\n10/14\n認識 Python 的串列(List)物件，並練習相關的處理方式。\n7\n10/21\n理解 Python 的邏輯判斷與迴圈設計，並進行實際範例的語法練習與開發工作。\n8\n10/28\n講解 Python 的字典(dict)運用之相關內容，並進行實際範例的語法練習與開發工作。\n完成學習單(2)\n9\n11/4\n探究式分組討論活動(2)\n完成討論工作、討論單和上台報告。\n完成討論單和簡報內容(2)\n10\n11/11\n認識Python函數的設計方式，並練習相關函數與物件的處理方式。\n11\n11/18\n認識Python函數的設計方式，並練習相關函數與物件的處理方式。\n12\n11/25\n認識Vibe Coding和使用方式(1)\n完成學習單(3)\n業師授課\n13\n12/2\n認識Vibe Coding和使用方式(2)\n業師授課\n14\n12/9\n認識Vibe Coding和使用方式(3)\n業師授課\n15\n12/16\n認識Vibe Coding和使用方式(4)\n業師授課\n16\n12/23\n期末上機考試，並填寫後測問卷。\n17\n12/30\n課程總整與反思。\n18\n1/6\n證照考試\n選擇性參與",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n個人學習單\n3\n20%\n實習表現\n1\n10%\n含出席和作業部份\n期末上機考試\n1\n10%\n學習表現\n1\n15%\n含出席和課堂作業等\n小組討論單\n3\n20%\n組內互評\n1\n10%\n小組合作表現\n1\n10%\n填寫問卷\n1\n5%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD10402",
+        "course_name": "巨量資料概論",
+        "teacher": "張宗銓",
+        "average_score": 72.56,
+        "score_distribution": {
+            "0~49": "4",
+            "75~79": "9",
+            "50~59": "0",
+            "80~84": "4",
+            "60~64": "6",
+            "85~89": "11",
+            "65~69": "9",
+            "90~94": "5",
+            "70~74": "11",
+            "95~100": "1"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\nPart 1: Introduction to the course and data science process\nPart 2: Introduction to information tools related to the data science process\nPart 3: Case studies and Term Project Presentation\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/9,9/10\nIntroduction to Course\n2\n9/16,\nData Science and Big Data Analytics\n3\n9/23,9/24\nData Preparation\n4\n9/30,\nCase Study: Data Preparation\n5\n10/7,10/8\nData Exploration\n6\n10/14,\nCase Study: Data Exploration\n7\n10/21,10/22\nBasic in AI\n8\n10/28,\nApplications of Big Data\n9\n11/4,11/5\nMidterm Exam\n10\n11/11,\nIntroduction in Linux\n11\n11/18,11/19\nLinux in Practice\n12\n11/25,\nIntroduction in Docker\n13\n12/2,12/3\nDocker in Practice\n14\n12/9,\nCase Study:Big Data (1)\n15\n12/16,12/17\nCase Study:Big Data (2)\n16\n12/23,\nCase Study:Big Data (3)\n17\n12/30,12/31\nFinal Exam\n18\n1/6,\nCourse Reflection",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n5\n10%\n報告\n1\n30%\n分組作業\n1\n30%\n課堂討論\n2\n30%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD10602",
+        "course_name": "計算機概論",
+        "teacher": "邱嘉豪",
+        "average_score": 72.77,
+        "score_distribution": {
+            "0~49": "4",
+            "75~79": "10",
+            "50~59": "2",
+            "80~84": "13",
+            "60~64": "11",
+            "85~89": "10",
+            "65~69": "6",
+            "90~94": "2",
+            "70~74": "7",
+            "95~100": "1"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/10\n分組與課程介紹\n2\n9/17\n介紹現代科技：計算機、設備和網絡\n3\n9/24\n數字系統與資料表示法\n9/22 助教課: prompt\n4\n10/1\n軟體與作業系統\n5\n10/8\n網絡與網際網路技術\n10/6 助教課放假\n6\n10/15\n資訊安全\n小考\n7\n10/22\n計算機結構與運算元件\n10/20 助教課: Sprompt\n8\n10/29\n電腦運算思維\n9\n11/5\n期中考\n期中考\n10\n11/12\n電腦運算思維\n11\n11/19\n終端機,Github 練習\n11/17 助教課: prompt\n12\n11/26\n資料結構\n13\n12/3\n演算法\n小考\n14\n12/10\n資料庫\n15\n12/17\n期末考\n期末考\n16\n12/24\n聖誕節放假\n17\n12/31\n期末專案報告\n期末專案報告\n18\n1/7\n期末專案報告",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n期中考\n1\n30%\n學期考\n1\n30%\n課堂小組討論\n1\n10%\n期末專案報告\n1\n30%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD10902",
+        "course_name": "微積分（一）",
+        "teacher": "許雄",
+        "average_score": 64.54,
+        "score_distribution": {
+            "0~49": "18",
+            "75~79": "7",
+            "50~59": "2",
+            "80~84": "2",
+            "60~64": "13",
+            "85~89": "3",
+            "65~69": "5",
+            "90~94": "4",
+            "70~74": "2",
+            "95~100": "10"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n1.Functions, graphs, limits\n2.Differentiation: Basics concepts\n3.Applications of the derivative\n4.Exponential and logarithmic functions\n●\n分週敘述 Weekly Schedule",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10%\n期中考\n1\n30%\n學期考\n1\n40%\n實習\n20%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDC995A1",
+        "course_name": "通識課程（一）通識一Ａ",
+        "teacher": "未知",
+        "average_score": null,
+        "score_distribution": {},
+        "syllabus": {
+            "content": "無資料",
+            "grading": "無資料"
+        }
+    },
+    {
+        "course_code": "BDC995B1",
+        "course_name": "通識課程（一）通識一Ｂ",
+        "teacher": "未知",
+        "average_score": null,
+        "score_distribution": {},
+        "syllabus": {
+            "content": "無資料",
+            "grading": "無資料"
+        }
+    },
+    {
+        "course_code": "BSP92511",
+        "course_name": "外文（一）",
+        "teacher": "未知",
+        "average_score": null,
+        "score_distribution": {},
+        "syllabus": {
+            "content": "無資料",
+            "grading": "無資料"
+        }
+    },
+    {
+        "course_code": "BDD20101",
+        "course_name": "機率與統計",
+        "teacher": "李家萱",
+        "average_score": 75.3,
+        "score_distribution": {
+            "0~49": "2",
+            "75~79": "15",
+            "50~59": "2",
+            "80~84": "11",
+            "60~64": "2",
+            "85~89": "8",
+            "65~69": "3",
+            "90~94": "4",
+            "70~74": "13",
+            "95~100": "0"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程針對「基礎統計技巧」教學，使用於分析資料，包含：統計圖表製作、統計量計算、機率分配、信賴區間、假設檢定等，實例講解EXCEL中各種統計分析技巧的操作步驟，解析各類型的報表結果。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/10\n第1章 緒論\n2\n9/16,9/17\n第2章 敍述統計(Ⅰ)-列表法與圖示法\n3\n9/24\n第2章 敍述統計(Ⅰ)-列表法與圖示法\n4\n9/30,10/1\n第3章 敍述統計(Ⅱ)-統計量數\n5\n10/8\n第3章 敍述統計(Ⅱ)-統計量數\n6\n10/14,10/15\n第4章 機率\n7\n10/22\n第4章 機率\n8\n10/28,10/29\n第5章 機率分配\n9\n11/5\n期中考週\n10\n11/11,11/12\n第5章 機率分配\n11\n11/19\n第6章 常用的機率分配\n12\n11/25,11/26\n第6章 常用的機率分配\n13\n12/3\n第7章 抽樣與抽樣分配\n14\n12/9,12/10\n第7章 抽樣與抽樣分配\n15\n12/17\n第8章 估計\n16\n12/23,12/24\n第8章 估計\n17\n12/31\n第9章 假設檢定\n18\n1/6,1/7\n期末考",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10%\n缺席第四次開始，連同前面三次一起扣分\n平時作業\n20%\n期中考\n25%\n學期考\n25%\n分組報告\n20%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD20201",
+        "course_name": "資料分析軟體",
+        "teacher": "鄭江宇",
+        "average_score": 89.37,
+        "score_distribution": {
+            "0~49": "1",
+            "75~79": "6",
+            "50~59": "0",
+            "80~84": "3",
+            "60~64": "0",
+            "85~89": "12",
+            "65~69": "0",
+            "90~94": "19",
+            "70~74": "1",
+            "95~100": "19"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n※ 本課程需自攜筆電至教室上課，課程以Windows作業系統為主。\n※ 使用Mac同學若遭遇相容性問題請自行排除\n※ 本課程將視整體同學研習成效進行3-5次線上非同步教學\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/11\n課程介紹 (Jupyter Notebook操作介面說明)\n2\n9/18\nPython程式語言基礎 (變數型態、各類運算子)\n3\n9/25\nPython程式語言基礎 (條件判斷式、迴圈)\n4\n10/2\nPython程式語言基礎(List、Dict、Json型態資料)\n5\n10/9\n數據應用相關展覽參訪(依實際展期彈性調整)\n6\n10/16\n爬蟲運作原理、初階論壇網站爬取(單頁)\n7\n10/23\n初階論壇網站爬取(靜態跨頁)、網路書店圖片爬取(靜態跨頁)\n8\n10/30\n條件交換式網站爬取、看得到但是抓不到網站爬取(動態載入)\n9\n11/6\n期中考\n10\n11/13\n進階論壇網站爬取(API資料連動、基礎資料視覺化)\n11\n11/20\n網路聲量分析、輿情分析\n12\n11/27\nSelenium爬蟲自動化設計\n13\n12/4\nGoogle Map商家評論自動化爬取\n14\n12/11\nGoogle News文字雲、爬蟲介面設計\n15\n12/18\n期末考\n16\n12/25\n校定假日停課乙次\n17\n1/1\n元旦停課乙次\n18\n1/8\n數據應用相關展覽參訪(依實際展期彈性調整)",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10%\n課堂互動\n30%\n期中考(筆試)\n25%\n期末考(筆試10%+實作15%)\n25%\n校內外競賽\n10%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD20501",
+        "course_name": "服務設計思考",
+        "teacher": "何穗華",
+        "average_score": 83.5,
+        "score_distribution": {
+            "0~49": "0",
+            "75~79": "0",
+            "50~59": "0",
+            "80~84": "9",
+            "60~64": "0",
+            "85~89": "4",
+            "65~69": "1",
+            "90~94": "3",
+            "70~74": "3",
+            "95~100": "2"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本學期課程改為中文授課\nThis course will develop the understanding of service design. Students will learn the tools and methods for creating better services, applicable to a business or projects in companies. In this semester, students need to complete projects through applying user-centered approaches and co-designing solutions with prototyping tools.\nStudents will also cooperate with psychology department to develop projects using the knowledge learned through this course in service design thinking.\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/10\nintroduction\n2\n9/17\ndesigning thinking\n3\n9/24\nCares Expo Taipei 2025 (9/24停課,9/25~9/27參展準備報告)\n4\n10/1\nobservation\n5\n10/8\nR1\n6\n10/15\ndefine needs & empathizing\n7\n10/22\n3D design\n8\n10/29\n3D design\n9\n11/5\n3D design\n10\n11/12\nR2\n11\n11/19\nseniors' lifestyle & needs discussion\n12\n11/26\nUI principles\n13\n12/3\nAPP interface design\n14\n12/10\nAPP interface design\n15\n12/17\nUsability exploration\n16\n12/24\nNo class (Christmas)\n17\n12/31\nR3\n18\n1/7\nNo class (Course reflection & feedback)",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10%\n無補點名，課程中任何時刻都可能點名，點名未到視為缺席。請假方式依校方規定，進入請假系統檢附正式證明文件。\n平時作業、討論、課堂參與\n45%\n無補繳機制，系統設定之期限後以0分計\n報告\n45%\n無補繳機制，系統設定之期限後以0分計\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD21001",
+        "course_name": "資料產品開發實務",
+        "teacher": "葉向原",
+        "average_score": 73.29,
+        "score_distribution": {
+            "0~49": "4",
+            "75~79": "12",
+            "50~59": "2",
+            "80~84": "16",
+            "60~64": "2",
+            "85~89": "7",
+            "65~69": "5",
+            "90~94": "1",
+            "70~74": "9",
+            "95~100": "0"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程自資料探索與前處理起步，系統性地涵蓋特徵工程、降維與視覺化、模型選擇與訓練、績效評估與模型優化，最終延伸至模型部署與實際應用，完整呈現「資料產品開發」的全生命週期，幫助學生從原始資料出發，實踐一條龍式的資料產品開發流程，將分析成果有效轉化為具體應用。\n深度實作導向：單元設計緊扣實務，強調動手操作 每個單元均結合真實數據進行實作，涵蓋結構化資料與時空資料處理、機器學習模型建構與比較、不平衡資料處理等關鍵技能，強化學生問題解決與模型應用能力。\n生活議題切入：提升學習動機與實務敏感度 教學主題聚焦於與生活息息相關的議題作為應用場景，包含空氣品質預測（PM2.5 時間序列分析）、金融與網路詐騙偵測（異常行為預測）、商業營收預測與風險管理（數據驅動決策支援）。透過真實案例，學生不僅習得技術，更能理解資料科學在社會與產業中的實際價值。\n接軌業界實務：導入主流工具鏈與企業場景，課程廣泛應用如 pandas、sklearn、geopandas 與 imbalanced-learn 等業界常用分析與建模工具，並融入 Git/GitHub 進行程式碼版本管理與專案部署。學生將練習在企業常見的資料環境下進行資料處理與模型建構，強化實務即戰力。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/8,9/9\n課程簡介、評量方式說明與資料產品概念\n2\n9/16\n資料前處理與分析理論基礎\n3\n9/22,9/23\n資料前處理實作(I)\n4\n9/30\n資料前處理實作(II)\n5\n10/6,10/7\n中秋節假期\n6\n10/14\n資料特徵工程理論基礎\n7\n10/20,10/21\n資料特徵工程實作(I)\n8\n10/28\n資料特徵工程實作(II)\n9\n11/3,11/4\n地理資訊系統與圖理論基礎\n10\n11/11\n地理資料實作(I)\n11\n11/17,11/18\n地理資料實作(II)\n12\n11/25\n資料建模基礎\n13\n12/1,12/2\n不平衡資料處理\n14\n12/9\n專案測試(pytest)\n15\n12/15,12/16\n專案測試(pytest)\n16\n12/23\n模型部署實作 I：API 架設基礎\n17\n12/29,12/30\n模型部署實作 II：前端整合與簡易展示\n18\n1/6\n專題發表與回饋、課程總結",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10%\n平時小考\n5\n20%\n期中考\n1\n30%\n報告\n35%\n自主學習\n5%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD21301",
+        "course_name": "資訊安全與倫理",
+        "teacher": "劉定衢",
+        "average_score": 64.23,
+        "score_distribution": {
+            "0~49": "4",
+            "75~79": "2",
+            "50~59": "1",
+            "80~84": "3",
+            "60~64": "9",
+            "85~89": "2",
+            "65~69": "1",
+            "90~94": "2",
+            "70~74": "6",
+            "95~100": "0"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程內容及範圍涵蓋如下：\n1. 資訊安全管理概念。\n2. 存取控制與資料安全。\n3. 通訊與網路安全。\n4. 網路安全威脅與案例。\n5. 駭客攻擊手法與演練。\n6. 密碼學基礎與相關應用。\n7. 新興資訊安全議題。\n8. 資訊倫理相關議題(含個資與隱私保護)。\n9. 企業參觀(AI與大數據在資安產業的應用)。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/11\n課程介紹、資訊安全管理概論\n2\n9/18\n資訊安全管理概論\n3\n9/25\n存取控制與身分驗證\n4\n10/2\n資料安全與保護\n5\n10/9\n通訊與網路安全\n6\n10/16\n攻擊手法、技術與框架\n7\n10/23\n個案探討：零日網路戰\n8\n10/30\n網路攻防演練\n網路攻防技術介紹與演練實作\n9\n11/6\n期中考試\n10\n11/13\n網路安全防禦技術\n11\n11/20\n密碼學及其應用\n12\n11/27\n資安企業參觀見學(AI與大數據在資安產業的應用)\n暫定參觀「奧義智慧科技」\n13\n12/4\n新興資訊安全議題(包含生成式AI資安風險)\n14\n12/11\n資訊倫理與隱私\n15\n12/18\n專題報告(或學期考試)\n16\n12/25\n行憲紀念日(放假)\n17\n1/1\n開國紀念日(放假)\n18\n1/8\n彈性補充教學週",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n14\n5%\n隨機點名，依出席比例給分。\n平時作業\n2\n35%\n1次分組書面報告、1次個人平時作業。\n期中考試\n1\n30%\nTronClass線上測驗\n學期考試\n1\n30%\n專題報告或TronClass線上測驗\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD21501",
+        "course_name": "大數據行銷    遠距教學",
+        "teacher": "鄭江宇",
+        "average_score": 85.8,
+        "score_distribution": {
+            "0~49": "5",
+            "75~79": "2",
+            "50~59": "1",
+            "80~84": "8",
+            "60~64": "1",
+            "85~89": "12",
+            "65~69": "1",
+            "90~94": "29",
+            "70~74": "4",
+            "95~100": "20"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/12\n課程介紹、 Python學習重要性與開發環境建置 (同步遠距)\n2\n9/19\nPython基礎操作 (非同步遠距)\n3\n9/26\nRFM 模型與顧客分群基礎 (非同步遠距)\n4\n10/3\n集群分析（同步遠距）\n5\n10/10\n雙十節停課乙次\n6\n10/17\n關聯法則分析（非同步遠距）\n7\n10/24\n光復節停課乙次\n8\n10/31\n回歸分析（非同步遠距）\n9\n11/7\n期中考 (實體筆試)\n10\n11/14\n集群分析（非同步遠距）\n11\n11/21\nOpenCV 靜態圖像處理與物件偵測（非同步遠距）\n12\n11/28\nOpenCV 動態影像處理（非同步遠距）\n13\n12/5\n進階影像辨識應用（同步遠距）\n14\n12/12\nTkinter基礎與UI設計（非同步遠距）\n15\n12/19\nTkinter與GPT API整合（非同步遠距）\n16\n12/26\n綜合案例 (同步遠距）\n17\n1/2\n期末考 (實體筆試)\n18\n1/9\n補充教學",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n平時作業\n30%\n期中考(筆試)\n30%\n期末考(筆試15%+實作15%)\n30%\n校內外競賽\n10%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD21701",
+        "course_name": "資料結構與演算法",
+        "teacher": "李佳蓉",
+        "average_score": 82.57,
+        "score_distribution": {
+            "0~49": "0",
+            "75~79": "3",
+            "50~59": "0",
+            "80~84": "9",
+            "60~64": "1",
+            "85~89": "2",
+            "65~69": "2",
+            "90~94": "5",
+            "70~74": "2",
+            "95~100": "4"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/9\nIntroduction\n2\n9/16\nIntroduction\n3\n9/23\nArrays\n4\n9/30\nStacks\n5\n10/7\nSorting\n6\n10/14\nSorting\n7\n10/21\nSorting\n8\n10/28\nDynamic Programming\n9\n11/4\n期中考週\n10\n11/11\nDynamic Programming\n11\n11/18\nGreedy Algorithms\n12\n11/25\nGreedy Algorithms\n13\n12/2\nShortest Paths Algorithms\n14\n12/9\nShortest Paths Algorithms\n15\n12/16\nLinear Programming\n16\n12/23\nLinear Programming\n17\n12/30\nFinal\n18\n1/6\n彈性教學週",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n平時作業\n30%\n期中考\n30%\n期末考\n40%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD21901",
+        "course_name": "生成式ＡＩ與數位敘事",
+        "teacher": "涂芸芳",
+        "average_score": 90.77,
+        "score_distribution": {
+            "0~49": "2",
+            "75~79": "0",
+            "50~59": "0",
+            "80~84": "2",
+            "60~64": "0",
+            "85~89": "0",
+            "65~69": "0",
+            "90~94": "42",
+            "70~74": "0",
+            "95~100": "22"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程探討數位敘事與生成式 AI 在創作中的融合，涵蓋文本、影像與互動式敘事科技。學生將學習 AI 驅動的敘事革命、生成式 AI 工具操作、Twine 互動敘事設計及機器人敘事應用，並透過創作與實踐數位敘事技能。課程目標為提升學生的數位創作能力，理解 AI 賦能敘事的多元形式，並培養創新思維，使其能運用 AI 進行故事創作、影像製作與互動敘事設計，發展數位時代的敘事表達力。\n透過這門課程，學生將系統掌握數位敘事的理論與實踐技能，能夠運用多種科技工具進行創意敘事作品的創作，並探索前沿科技（如生成式 AI 和 VR）在敘事中的應用，培養多媒體的數位敘事創作能力。\n教學目標一：掌握數位敘事的核心概念與科技應用\n教學目標二：熟悉數位敘事的創作流程與技能\n教學目標三：培養跨平臺敘事創作能力\n教學目標四：探索VR 科技和多媒體科技在數位敘事中的應用\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/11\n故事的魔法：數位敘事初探\n2\n9/18\nAI的奇幻工坊：生成式AI的奧秘\n3\n9/25\n生成式AI工具實作：圖像與角色創作\n4\n10/2\n敘事文本創作：從構思到完善\n5\n10/9\n敘事文本視覺化：從文字到圖像/音樂/影片\n6\n10/16\nTwine互動工具（一）：基礎與資料處理\n7\n10/23\nTwine互動工具（二）：進階應用與測試\n8\n10/30\n數位敘事作品實作：創作與展示\n9\n11/6\n期中作品展示：成果與回饋\n10\n11/13\n敘事策展實踐：議題與短講\n11\n11/20\nOne Page Story創作：框架與實作/敘事漫畫創作：AI與手繪結合\n12\n11/27\nVR互動敘事（一）：基礎與框架\n13\n12/4\nVR互動敘事（二）：實踐與討論\n14\n12/11\nVR互動敘事（三）：實踐與討論\n15\n12/18\nVR互動敘事作品展示\n16\n12/25\n24~25日聖誕節放假\n17\n1/1\n1日開國紀念日放假\n18\n1/8\n期末展演",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n平時作業\n3\n30%\n(含出席率)\n報告\n1\n30%\n期中\n期末報告\n1\n40%\n期末報告\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD20102",
+        "course_name": "機率與統計",
+        "teacher": "李家萱",
+        "average_score": 74.15,
+        "score_distribution": {
+            "0~49": "3",
+            "75~79": "13",
+            "50~59": "1",
+            "80~84": "11",
+            "60~64": "4",
+            "85~89": "8",
+            "65~69": "5",
+            "90~94": "1",
+            "70~74": "13",
+            "95~100": "0"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程針對「基礎統計技巧」教學，使用於分析資料，包含：統計圖表製作、統計量計算、機率分配、信賴區間、假設檢定等，實例講解EXCEL中各種統計分析技巧的操作步驟，解析各類型的報表結果。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/9\n第1章 緒論\n2\n9/16\n第2章 敍述統計(Ⅰ)-列表法與圖示法\n3\n9/23\n第2章 敍述統計(Ⅰ)-列表法與圖示法\n4\n9/30\n第3章 敍述統計(Ⅱ)-統計量數\n5\n10/7\n第3章 敍述統計(Ⅱ)-統計量數\n6\n10/14\n第4章 機率\n7\n10/21\n第4章 機率\n8\n10/28\n第5章 機率分配\n9\n11/4\n期中考週\n10\n11/11\n第5章 機率分配\n11\n11/18\n第6章 常用的機率分配\n12\n11/25\n第6章 常用的機率分配\n13\n12/2\n第7章 抽樣與抽樣分配\n14\n12/9\n第7章 抽樣與抽樣分配\n15\n12/16\n第8章 估計\n16\n12/23\n第8章 估計\n17\n12/30\n第9章 假設檢定\n18\n1/6\n期末考",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10%\n缺席第四次開始，連同前面三次一起扣分\n平時作業\n20%\n期中考\n25%\n學期考\n25%\n分組報告\n20%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD20202",
+        "course_name": "資料分析軟體",
+        "teacher": "鄭江宇",
+        "average_score": 85.23,
+        "score_distribution": {
+            "0~49": "2",
+            "75~79": "3",
+            "50~59": "0",
+            "80~84": "9",
+            "60~64": "0",
+            "85~89": "12",
+            "65~69": "4",
+            "90~94": "17",
+            "70~74": "1",
+            "95~100": "12"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n※ 本課程需自攜筆電至教室上課，課程以Windows作業系統為主。\n※ 使用Mac同學若遭遇相容性問題請自行排除\n※ 本課程將視整體同學研習成效進行3-5次線上非同步教學\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/12\n課程介紹(Jupyter Notebook操作介面說明)\n2\n9/19\nPython程式語言基礎(變數型態、各類運算子)\n3\n9/26\nPython程式語言基礎(條件判斷式、迴圈)\n4\n10/3\nPython程式語言基礎(預設函式、自訂函式)\n5\n10/10\n雙十節停課乙次\n6\n10/17\nPython程式語言基礎(List、Dict、Json型態資料)\n7\n10/24\n光復節停課乙次\n8\n10/31\n爬蟲運作原理、初階論壇網站爬取(單頁)、初階論壇網站爬取(靜態跨頁)、網路書店圖片爬取(靜態跨頁)\n9\n11/7\n期中考\n10\n11/14\n條件交換式網站爬取、看得到但是抓不到網站爬取(動態載入)\n11\n11/21\n進階論壇網站爬取(API資料連動、基礎資料視覺化)、網路聲量分析、輿情分析\n12\n11/28\nSelenium爬蟲自動化設計\n13\n12/5\nGoogle Map商家評論自動化爬取\n14\n12/12\nGoogle News文字雲\n15\n12/19\n不同資料來源視覺化圖表彙整\n16\n12/26\n動態資料視覺化\n17\n1/2\n期末考\n18\n1/9\n數據應用相關展覽參訪(依實際展期彈性調整)",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n1\n10%\n課堂互動\n1\n30%\n期中考(筆試)\n1\n25%\n期末考(筆試10%+實作15%)\n1\n25%\n校內外競賽\n1\n10%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD21002",
+        "course_name": "資料產品開發實務",
+        "teacher": "葉向原",
+        "average_score": 74.8,
+        "score_distribution": {
+            "0~49": "3",
+            "75~79": "17",
+            "50~59": "0",
+            "80~84": "14",
+            "60~64": "4",
+            "85~89": "5",
+            "65~69": "3",
+            "90~94": "2",
+            "70~74": "9",
+            "95~100": "0"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程自資料探索與前處理起步，系統性地涵蓋特徵工程、降維與視覺化、模型選擇與訓練、績效評估與模型優化，最終延伸至模型部署與實際應用，完整呈現「資料產品開發」的全生命週期，幫助學生從原始資料出發，實踐一條龍式的資料產品開發流程，將分析成果有效轉化為具體應用。\n深度實作導向：單元設計緊扣實務，強調動手操作 每個單元均結合真實數據進行實作，涵蓋結構化資料與時空資料處理、機器學習模型建構與比較、不平衡資料處理等關鍵技能，強化學生問題解決與模型應用能力。\n生活議題切入：提升學習動機與實務敏感度 教學主題聚焦於與生活息息相關的議題作為應用場景，包含空氣品質預測（PM2.5 時間序列分析）、金融與網路詐騙偵測（異常行為預測）、商業營收預測與風險管理（數據驅動決策支援）。透過真實案例，學生不僅習得技術，更能理解資料科學在社會與產業中的實際價值。\n接軌業界實務：導入主流工具鏈與企業場景，課程廣泛應用如 pandas、sklearn、geopandas 與 imbalanced-learn 等業界常用分析與建模工具，並融入 Git/GitHub 進行程式碼版本管理與專案部署。學生將練習在企業常見的資料環境下進行資料處理與模型建構，強化實務即戰力。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/8\n課程簡介、評量方式說明與資料產品概念\n2\n9/15\n資料前處理與分析理論基礎\n3\n9/22\n資料前處理實作(I)\n4\n9/29\n資料前處理實作(II)\n5\n10/6\n中秋節假期\n6\n10/13\n資料特徵工程理論基礎\n7\n10/20\n資料特徵工程實作(I)\n8\n10/27\n資料特徵工程實作(II)\n9\n11/3\n地理資訊系統與圖理論基礎\n10\n11/10\n地理資料實作(I)\n11\n11/17\n地理資料實作(II)\n12\n11/24\n資料建模基礎\n13\n12/1\n不平衡資料處理\n14\n12/8\n專案測試(pytest)\n15\n12/15\n專案測試(pytest)\n16\n12/22\n模型部署實作 I：API 架設基礎\n17\n12/29\n模型部署實作 II：前端整合與簡易展示\n18\n1/5\n專題發表與回饋、課程總結",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10%\n平時小考\n5\n20%\n期中考\n1\n30%\n報告\n35%\n自主學習\n5%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDC99613",
+        "course_name": "通識課程（二）溪通識二",
+        "teacher": "未知",
+        "average_score": null,
+        "score_distribution": {},
+        "syllabus": {
+            "content": "無資料",
+            "grading": "無資料"
+        }
+    },
+    {
+        "course_code": "BSP92761",
+        "course_name": "外文（二）",
+        "teacher": "未知",
+        "average_score": null,
+        "score_distribution": {},
+        "syllabus": {
+            "content": "無資料",
+            "grading": "無資料"
+        }
+    },
+    {
+        "course_code": "BDD20901",
+        "course_name": "生成式影音創作    遠距教學",
+        "teacher": "蘇弋麟",
+        "average_score": 66.92,
+        "score_distribution": {
+            "0~49": "25",
+            "75~79": "7",
+            "50~59": "4",
+            "80~84": "6",
+            "60~64": "9",
+            "85~89": "12",
+            "65~69": "5",
+            "90~94": "8",
+            "70~74": "4",
+            "95~100": "16"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n課程以線上非同步為主並混和線上同步課程，線上同步課成為期中與期末需要進行線上分組發表作品，其餘的課程皆以線上非同步為主。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/12\n課程目標、內容及評量方式介紹，簡要介紹 AI 生成技術的應用領域。\n2\n9/19\n學習人工智慧的基本概念及 Chat GPT 的工作原理與應用。\n3\n9/26\n實作練習使用 Chat GPT 進行創意文本和腳本的撰寫\n4\n10/3\n介紹並學習使用 Stable Diffusion 等生成圖像工具的基本操作。\n5\n10/10\n實際操作 AI 圖像生成工具，並結合文本進行創作。\n6\n10/17\n介紹並學習使用影片生成工具（如 Runway ML 等）的基本操作。\n7\n10/24\n實際操作 AI 影片生成工具，並結合文本和圖像進行創作。\n8\n10/31\n介紹並學習使用音樂和音效生成工具（如 Amper Music、AIVA 等）的基本操作。\n9\n11/7\n期中作品繳交：包含音樂和音效的 2D 故事影片，展示並進行回饋。\n10\n11/14\n介紹常用的影音剪輯與後製工具，並學習基本剪輯技巧。\n11\n11/21\n深入學習剪輯技術，並進行實作練習，完善期中作品。\n12\n11/28\n介紹並學習使用 3D 生成工具的基本操作。\n13\n12/5\n實際操作 3D 生成工具，進行基礎 3D 模型和場景的創作。\n14\n12/12\n結合 2D 和 3D 生成工具，開始創作包含音樂和音效的綜合性影片。\n15\n12/19\n深入探索各種 AI 生成式平台的應用，學習高級功能和實作技巧。\n16\n12/26\n討論 AI 在創意產業中的未來發展，分享創意應用案例，激發創新思維。\n17\n1/2\n期末作品繳交：綜合性影片，展示並進行總結。\n18\n1/9",
+            "grading": "本科目 ☑不同意期末退修　原因：期末以前成績已經足夠通過該課程。\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n平時成績\n1\n30%\n平時作業以及學習情況\n期中作品\n1\n35%\n期中分組作品成績\n期末作品\n1\n35%\n期末作品成績\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD30101",
+        "course_name": "資料探勘導論",
+        "teacher": "呂明",
+        "average_score": 66.22,
+        "score_distribution": {
+            "0~49": "9",
+            "75~79": "0",
+            "50~59": "5",
+            "80~84": "2",
+            "60~64": "4",
+            "85~89": "7",
+            "65~69": "7",
+            "90~94": "4",
+            "70~74": "3",
+            "95~100": "4"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本學期主要是介紹資料探勘的基本概念、發展與應用，發掘資料中知識、洞見與模型的技術，從組織好的資料中萃取有用模式的行為。模式必須有效、具使用潛力並可了解，學期中會包含讓學生利用過去的資料預測未來的實作。\n本學期進度預計涵蓋：\n1. 迴歸模型的建立\n2. 分類模型的建立\n3. 關聯規則的建立\n4. 集群分析的建立\n此外，本學期課程以實體和線上混合上課，亦安排兩次考試和數次實作，以及不定期的作業。透過實作和作業練習讓學生更能體會巨量資料與資料探勘的發展與應用，藉由考試的檢測讓學生了解學習情況及掌控。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/10\n課程介紹 & 評分說明 & 分組 & Introduction\n2\n9/17\nData & Regression: Basic Concepts and Techniques/Regression: Alternative Techniques\n適情況調整\n3\n9/24\nData & Regression: Basic Concepts and Techniques/Regression: Alternative Techniques\n適情況調整\n4\n10/1\nData & Regression: Basic Concepts and Techniques/Regression: Alternative Techniques\n適情況調整\n5\n10/8\n實作\n適情況調整\n6\n10/15\nClassification: Basic Concepts and Techniques/Classification: Alternative Techniques\n適情況調整\n7\n10/22\nClassification: Basic Concepts and Techniques/Classification: Alternative Techniques\n適情況調整\n8\n10/29\n實作\n適情況調整\n9\n11/5\nExam 1\n適情況調整\n10\n11/12\nCluster Analysis: Basic Concepts and Algorithms/Cluster Analysis: Additional Issues and Algorithms\n適情況調整\n11\n11/19\nCluster Analysis: Basic Concepts and Algorithms/Cluster Analysis: Additional Issues and Algorithms\n適情況調整\n12\n11/26\n實作\n適情況調整\n13\n12/3\nAssociation Analysis: Basic Concepts and Algorithms/Association Analysis: Advanced Concepts\n適情況調整\n14\n12/10\nAssociation Analysis: Basic Concepts and Algorithms/Association Analysis: Advanced Concepts\n適情況調整\n15\n12/17\n實作\n適情況調整\n16\n12/24\nHoliday\n17\n12/31\nExam 2\n18\n1/7",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n出席分數包含課堂參與討論，以加分處理。\n平時作業\n隨堂作業以加分處理。\n考試\n2\n40%\n實作作業\n4\n60%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD30401",
+        "course_name": "金融科技與智能交易",
+        "teacher": "鄭宏文",
+        "average_score": 91.33,
+        "score_distribution": {
+            "0~49": "1",
+            "75~79": "0",
+            "50~59": "0",
+            "80~84": "4",
+            "60~64": "1",
+            "85~89": "3",
+            "65~69": "0",
+            "90~94": "4",
+            "70~74": "1",
+            "95~100": "28"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程著重自我學習和專題實作，從閱讀最新文獻、介紹最新智能交易方法、資料處理、資料探勘、大數據應用、Python程式竄寫至利用智能交易來建構投資組合，均有深入淺出的介紹，並藉由實作來讓學生了解學的理論如何應用至實務上。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/11\n介紹課程及相關規定\n2\n9/18\n金融科技介紹\n3\n9/25\n分組報告最新文獻一\n4\n10/2\n分組報告最新文獻二\n5\n10/9\n分組報告最新文獻三\n6\n10/16\n資料下載\n7\n10/23\n資料處理\n8\n10/30\n資料處理\n9\n11/6\n期中報告\n10\n11/13\n大數據應用\n11\n11/20\n個案研究\n12\n11/27\n最新智能交易方法\n13\n12/4\n計算投資組合報酬\n14\n12/11\n比較贏大盤的勝率及累積報酬\n15\n12/18\n期末報告\n16\n12/25\n放假\n17\n1/1\n放假\n18\n1/8\n彈性放假",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10%\n投資競賽\n10%\n投資競賽書面報告\n10%\n分組上台報告論文\n10%\n期中上台報告\n10%\n期中書面報告\n10%\n上台報告結果呈現\n10%\n期末上台報告\n10%\n期末書面報告\n20%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD30501",
+        "course_name": "文字探勘導論",
+        "teacher": "吳政隆",
+        "average_score": 86.44,
+        "score_distribution": {
+            "0~49": "0",
+            "75~79": "4",
+            "50~59": "0",
+            "80~84": "4",
+            "60~64": "1",
+            "85~89": "5",
+            "65~69": "2",
+            "90~94": "11",
+            "70~74": "5",
+            "95~100": "11"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程以淺顯易懂的教學方式，搭配實作演練，修完本課程的學生將可學習到以下課程內容:\n1. Natural Language Processing & Text Representation\n2. Word Association Mining & Analysis\n3. Sentiment Analysis\n4. Text-based Classification & Clustering\n5. Deep Leaning for Text Mining Application\n6. Larger Language Model Application\n7. 文字探勘專題製作，包含專題提案與展示\n課程安排隨時會改變，請留意課堂或TronClass學習平台之公告\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/11\nIntroduction to the course\n2\n9/18\nIntroduction to text mining\n3\n9/25\nCreate customized Chatbot\n4\n10/2\nText pre-processing\n5\n10/9\nWord association and keyword\n6\n10/16\nTraditional word representation\n7\n10/23\nWord embedding\n8\n10/30\nText classification\n9\n11/6\nMid-exam\n10\n11/13\nMiddle project proposal\n11\n11/20\nText clustering\n12\n11/27\nDeep learning-based text classification\n13\n12/4\nRecurrent neural network\n14\n12/11\nNatural language generation\n15\n12/18\nLarger language model\n16\n12/25\nNo class\n17\n1/1\nFinal project presentation and demonstration\n18\n1/8\nFinal project presentation and demonstration",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10\n20%\n作業\n2\n40%\n期中考\n1\n20%\n課程專題製作\n1\n20%\n將課程所學用於解決真實問題(主題自訂)\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD30801",
+        "course_name": "智慧健康服務設計",
+        "teacher": "何穗華",
+        "average_score": 75.98,
+        "score_distribution": {
+            "0~49": "6",
+            "75~79": "4",
+            "50~59": "1",
+            "80~84": "12",
+            "60~64": "1",
+            "85~89": "13",
+            "65~69": "1",
+            "90~94": "10",
+            "70~74": "2",
+            "95~100": "1"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/12\n課程介紹與跨域定位\n2\n9/19\n智慧健康與高齡挑戰\n(社區教練)\n3\n9/26\n互動與服務設計中的世代差異\n(社區教練)\n4\n10/3\n健康促進中的心理學應用\n(社區教練)\n5\n10/10\n放假\n6\n10/17\n生活模式再造與樂齡活動設計\n(社區教練)\n7\n10/24\n放假 (光復節10/24補假)\n8\n10/31\n遊戲化導論（業師）\n9\n11/7\n設計工作坊 – 參與式設計\n社區教練\n10\n11/14\n穿戴裝置與IoT應用\n(社區教練)\n11\n11/21\n原型製作1 (業師)\n12\n11/28\n報告 (同學報告預計方向)\n13\n12/5\n原型製作2 (業師)\n14\n12/12\n健康資料分析與視覺化\n(社區教練)\n15\n12/19\n問題與討論\n16\n12/26\n測試與修正 (業師)\n17\n1/2\n期末發表\n(社區教練)\n18\n1/9\n期末彈性教學",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n隨堂考\n36%\n報告\n50%\n每項目均有繳交期限，逾時繳交不予採計，請準時繳交。包含出席、小組互評、成果報告。\n出席與平時表現\n14%\n課程中任何時段均可能點名，點名未到視同缺席，不接受補點名。本課程每週若需請假，請假方式請依校方規定，進入請假系統檢附正式證明文件。\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD31301",
+        "course_name": "巨量資料分析應用",
+        "teacher": "丁德天",
+        "average_score": 77.11,
+        "score_distribution": {
+            "0~49": "4",
+            "75~79": "6",
+            "50~59": "0",
+            "80~84": "12",
+            "60~64": "1",
+            "85~89": "5",
+            "65~69": "6",
+            "90~94": "9",
+            "70~74": "5",
+            "95~100": "6"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n人是天生的社會性動物，其行為背後所反映的社會現象與流行趨勢是複雜的，而我們該如何提出創意又實用的問題？如何獲取有效且精確的資訊來解決問題？如何建構適當的數學模型、將繁複的訊息以簡單又不失真的方式呈現？如何闡述數據分析的結果？都是本課程之基本目標。\n此門課程將採雙軸並行制，協助修課同學建構穩固的數學與統計能力、並提升其處理巨量資料所需之技能。針對資料蒐集、彙整、儲存、模型建構與分析、視覺化結果呈現、與分析流程自動化等知識面向來帶領修課同學思考巨量資料之背景、來源、問題方針、與理論基礎。協助同學整合既有的統計與程式設計之知識技能，進而模擬實務操作過程、建構未來專題設計與執行的基礎能力。\n課程進行步驟：\n1. 了解數據科學之演進\n2. 初階與等等統計之整合與運用\n3. 模型建構與分析\n4. 視覺化結果呈現\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/8\nThe History of Big Data Development (Structured vs. Unstructured Database; Supervised vs. Unsupervised Learning)\n2\n9/15\nData structure and its implementation in health\n3\n9/22\nData Collection in the Age of Big Data (e.g. economics, social media, open sources, and national survey)\n4\n9/29\nDescriptive Statistical Analysis\nHypothesis testing and Cross Validation\n5\n10/6\n中秋節假期\n6\n10/13\nANOVA with Basic Concepts\n7\n10/20\nANOVA with Randomized Block Design\n8\n10/27\nANOVA Two-Factor Factorial Experiment\n9\n11/3\n期中考\n10\n11/10\nR commander for descriptive analysis\n11\n11/17\nR commander for ANOVA and regression\n12\n11/24\nR commander for model evaluation\n13\n12/1\nSimple linear regression\n14\n12/8\nMultiple linear regression\n15\n12/15\nModel selection\n16\n12/22\n期末報告\n17\n12/29\n期末報告\n18\n1/5\n彈性補充教學週",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n期中考\n1\n30%\n平時作業與小考\n5\n40%\n期末報告\n30%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD31401",
+        "course_name": "行為資料科學",
+        "teacher": "李家萱",
+        "average_score": 87.09,
+        "score_distribution": {
+            "0~49": "1",
+            "75~79": "1",
+            "50~59": "1",
+            "80~84": "8",
+            "60~64": "0",
+            "85~89": "27",
+            "65~69": "0",
+            "90~94": "18",
+            "70~74": "0",
+            "95~100": "8"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n以 Muse 腦波儀為感測工具，指導學生設計一個能解釋「行為變化」過程的實驗，使用資料證明「是什麼讓我改變了行為」。以「行為 → 資料 → 觀察 → 故事」這個邏輯思維進行課程，內容包含：\n行為假設與實驗設計（1~7週）\n數據處理與證據探索（8~12週）\n結果呈現與反思應用（13~17週）\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/12\n課程介紹和概述\n2\n9/19\n行為資料科學的背景和應用領域\n3\n9/26\n實驗設計和倫理考慮\n4\n10/3\n實驗設計 + 提案書繳交\n5\n10/10\nMuse 操作與資料導出\n6\n10/17\n實驗執行\n7\n10/24\n資料清理與初步視覺化\n8\n10/31\n期中成果簡報分享\n9\n11/7\n期中考\n10\n11/14\n時序資料分析\n11\n11/21\n主觀 × 客觀資料對照分析\n12\n11/28\n主觀 × 客觀資料對照分析\n13\n12/5\n行為介入設計工作坊\n14\n12/12\n認知負荷評估和注意力研究\n15\n12/19\n行為資料科學在市場研究和消費者行為分析中的應用\n16\n12/26\n行為資料科學在人機交互設計和使用者體驗評估中的應用\n17\n1/2\n行為資料科學在醫療和心理健康研究中的應用\n18\n1/9\n期末考",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10%\n平時作業\n30%\n期中報告\n30%\n分組報告\n30%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD40601",
+        "course_name": "社群網路分析導論",
+        "teacher": "涂芸芳",
+        "average_score": 86.79,
+        "score_distribution": {
+            "0~49": "3",
+            "75~79": "0",
+            "50~59": "0",
+            "80~84": "0",
+            "60~64": "0",
+            "85~89": "12",
+            "65~69": "0",
+            "90~94": "24",
+            "70~74": "1",
+            "95~100": "9"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本課程旨在提供社群網絡分析知識、應用與技能訓練，涵蓋從數據處理分析到圖形視覺化的各個層面。課程主要內容包括：\n1.數據處理與分析： 探討社群網絡數據的收集、整理與預處理流程，確保數據質量及後續分析的精確性。\n2.圖形視覺化： 學習利用先進的工具進行網絡圖譜的可視化展示，幫助理解網絡結構與關聯模式。\n3.基本概念解析： 詳細介紹網絡中節點、邊、中心性、子群體等關鍵概念，並探討這些元素在網絡互動中的實際意涵。\n4.分析技術： 聚焦於 Social Network Analysis (SNA)，以及擴展於Domain Network Analysis (DNA) 與 Epistemic Network Analysis (ENA) 等方法，解析其理論基礎與應用範例。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/9\n課程介紹\n社會網絡分析 (SNA)\n2\n9/16\n社會網絡分析 (SNA) 的應用\n3\n9/23\n社會網絡資料和形式方法\n以分析支援社會與情緒學習：資料驅動設計模式\n4\n9/30\n社會關係視覺化\n—Using graphs to represent social relations\n—Working with Netdraw to visualize graphs\n5\n10/7\n矩陣與社會關係\n—Using matrices to represent social relations\n6\n10/14\n網絡資料處理\n—Working with network data\n7\n10/21\n案例討論\nCase study\n8\n10/28\n自我網絡\nEgo networks\n9\n11/4\n中心性與權力\nCentrality and power\n10\n11/11\n小團體與次級群組\nCliques and sub-groups\n11\n11/18\n案例討論\nCase study\n12\n11/25\nEpistemic Network Analysis (I)\n13\n12/2\nEpistemic Network Analysis (II)\n14\n12/9\nDomain Network Analysis (I)\n15\n12/16\nDomain Network Analysis (II)\n16\n12/23\nDomain Network Analysis 報告\n17\n12/30\n期末發表\n18\n1/6\n期末發表",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n平時作業\n3\n30%\n含出席率\n報告\n1\n30%\n期中作業\n分組作業\n40%\n期末作業\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD30102",
+        "course_name": "資料探勘導論",
+        "teacher": "呂明",
+        "average_score": 65.31,
+        "score_distribution": {
+            "0~49": "11",
+            "75~79": "1",
+            "50~59": "4",
+            "80~84": "3",
+            "60~64": "9",
+            "85~89": "4",
+            "65~69": "5",
+            "90~94": "10",
+            "70~74": "4",
+            "95~100": "3"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n本學期主要是介紹資料探勘的基本概念、發展與應用，發掘資料中知識、洞見與模型的技術，從組織好的資料中萃取有用模式的行為。模式必須有效、具使用潛力並可了解，學期中會包含讓學生利用過去的資料預測未來的實作。\n本學期進度預計涵蓋：\n1. 迴歸模型的建立\n2. 分類模型的建立\n3. 關聯規則的建立\n4. 集群分析的建立\n此外，本學期課程以實體和線上混合上課，亦安排兩次考試和數次實作，以及不定期的作業。透過實作和作業練習讓學生更能體會巨量資料與資料探勘的發展與應用，藉由考試的檢測讓學生了解學習情況及掌控。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/12\n課程介紹 & 評分說明 & 分組 & Introduction\n2\n9/19\nData & Regression: Basic Concepts and Techniques/Regression: Alternative Techniques\n適情況調整\n3\n9/26\nData & Regression: Basic Concepts and Techniques/Regression: Alternative Techniques\n適情況調整\n4\n10/3\nData & Regression: Basic Concepts and Techniques/Regression: Alternative Techniques\n適情況調整\n5\n10/10\nHoliday\n6\n10/17\n實作\n適情況調整\n7\n10/24\nClassification: Basic Concepts and Techniques/Classification: Alternative Techniques\n適情況調整\n8\n10/31\nClassification: Basic Concepts and Techniques/Classification: Alternative Techniques\n適情況調整\n9\n11/7\nExam 1\n適情況調整\n10\n11/14\n實作\n適情況調整\n11\n11/21\nCluster Analysis: Basic Concepts and Algorithms/Cluster Analysis: Additional Issues and Algorithms\n適情況調整\n12\n11/28\nCluster Analysis: Basic Concepts and Algorithms/Cluster Analysis: Additional Issues and Algorithms\n適情況調整\n13\n12/5\n實作\n適情況調整\n14\n12/12\nAssociation Analysis: Basic Concepts and Algorithms/Association Analysis: Advanced Concepts\n適情況調整\n15\n12/19\nAssociation Analysis: Basic Concepts and Algorithms/Association Analysis: Advanced Concepts\n適情況調整\n16\n12/26\n實作\n適情況調整\n17\n1/2\nExam 2\n適情況調整\n18\n1/9",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n出席分數包含課堂參與討論，以加分處理。\n平時作業\n隨堂作業以加分處理。\n考試\n2\n40%\n實作作業\n4\n60%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDC99713",
+        "course_name": "通識課程（三）溪通識三",
+        "teacher": "未知",
+        "average_score": null,
+        "score_distribution": {},
+        "syllabus": {
+            "content": "無資料",
+            "grading": "無資料"
+        }
+    },
+    {
+        "course_code": "BDD40201",
+        "course_name": "人工智慧導論",
+        "teacher": "蘇明祥",
+        "average_score": 85.57,
+        "score_distribution": {
+            "0~49": "1",
+            "75~79": "3",
+            "50~59": "0",
+            "80~84": "3",
+            "60~64": "1",
+            "85~89": "6",
+            "65~69": "1",
+            "90~94": "10",
+            "70~74": "2",
+            "95~100": "11"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n由基礎MLP模型開始介紹，並藉由實作CNN, LSTM, GAN等基礎模型，理解各種模型適合的問題應用。\n最後藉由大型語言模型架構介紹，引導至生成式人工智慧的實作。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/9\nPython 語法與運算套件安裝\n2\n9/16\n深度學習所需數學知識介紹\n3\n9/23\n深度學習所需數學知識介紹\n4\n9/30\n神經網路的基礎介紹\n5\n10/7\n訓練神經網路之技巧\n6\n10/14\n訓練神經網路之技巧\n7\n10/21\n常遇到之問題及解決策略\n8\n10/28\n解決訓練成效不佳的問題\n9\n11/4\n期中考\n10\n11/11\n卷機神經網路基本概念\n11\n11/18\n卷機神經網路實作\n12\n11/25\n循環神經網路基礎及實作\n13\n12/2\n深層強化式學習實作\n14\n12/9\n⽣成模型基礎與實作\n15\n12/16\nTransformer模型基礎與實作\n16\n12/23\n大型語言模型基礎簡介\n17\n12/30\n生成式模型基礎與實作\n18\n1/6\n期末考",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10\n5%\n1. 課堂中隨機進行點名。\n2. 點名過後，不再進行補點名。\n平時作業\n20\n30%\n1. 抄襲0分計算。\n2. 有Bug，分數為總分的一半。\n期中報告\n1\n30%\n1. 完成專題計畫書及基礎模型程式撰寫。\n2. 有Bug，分數為總分的一半。\n學期考\n1\n35%\n1. 完成專題實作報告及程式撰寫。\n2. 有Bug，分數為總分的一半。\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD40301",
+        "course_name": "企業實習（一）",
+        "teacher": "涂芸芳",
+        "average_score": 89.54,
+        "score_distribution": {
+            "0~49": "0",
+            "75~79": "0",
+            "50~59": "0",
+            "80~84": "1",
+            "60~64": "0",
+            "85~89": "4",
+            "65~69": "0",
+            "90~94": "5",
+            "70~74": "0",
+            "95~100": "1"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n1. Introduction of internship program\n2. Planning a framework for your internship program\n3. Modifying a framework for your internship program\n4. Internship program: practice\n5. Mid-term report\n6. Internship program: practice\n7. Final report\n●\n分週敘述 Weekly Schedule",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n50%\n報告\n35%\n15%\n進度報告\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD40701",
+        "course_name": "專題實作",
+        "teacher": "李家萱",
+        "average_score": 85.35,
+        "score_distribution": {
+            "0~49": "1",
+            "75~79": "3",
+            "50~59": "0",
+            "80~84": "4",
+            "60~64": "0",
+            "85~89": "12",
+            "65~69": "1",
+            "90~94": "22",
+            "70~74": "2",
+            "95~100": "0"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\nIndependent study\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\nIntroduction of independent study:\nBe an independent learner\n2\nLiterature review\n3\nLiterature review\n4\nPlanning a framework for your independent study\n5\nModifying a framework for your independent study\n6\nEffective practice in the independent study:\nSearch specification for research design and methodology\n7\nThe practice and progress report:\nResearch design and methodology\n8\nThe practice and progress report:\nAnalytical strategies and programing\n9\nThe practice and progress report:\nAnalytical strategies and programing\n10\nMid-term report\n11\nThe practice and progress report:\nAnalytical strategies and programing\n12\nThe practice and progress report:\nAnalytical strategies and programing\n13\nThe practice and progress report:\nAnalytical strategies and programing\n14\nThe practice and progress report:\nFingdings\n15\nThe practice and progress report:\nFingdings\n16\nThe practice and progress report:\nDiscussion\n17\nThe practice and progress report:\nConclusions, implications and recommendations\n18\nFinal report",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n25%\n期末成果報告\n50%\n進度報告\n25%\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD40202",
+        "course_name": "人工智慧導論",
+        "teacher": "蘇明祥",
+        "average_score": 86.7,
+        "score_distribution": {
+            "0~49": "2",
+            "75~79": "1",
+            "50~59": "0",
+            "80~84": "7",
+            "60~64": "0",
+            "85~89": "10",
+            "65~69": "0",
+            "90~94": "14",
+            "70~74": "3",
+            "95~100": "10"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\n由基礎MLP模型開始介紹，並藉由實作CNN, LSTM, GAN等基礎模型，理解各種模型適合的問題應用。\n最後藉由大型語言模型架構介紹，引導至生成式人工智慧的實作。\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\n9/11\nPython 語法與運算套件安裝\n2\n9/18\n深度學習所需數學知識介紹\n3\n9/25\n深度學習所需數學知識介紹\n4\n10/2\n神經網路的基礎介紹\n5\n10/9\n訓練神經網路之技巧\n6\n10/16\n訓練神經網路之技巧\n7\n10/23\n常遇到之問題及解決策略\n8\n10/30\n解決訓練成效不佳的問題\n9\n11/6\n期中考\n10\n11/13\n卷機神經網路基本概念\n11\n11/20\n卷機神經網路實作\n12\n11/27\n循環神經網路基礎及實作\n13\n12/4\n深層強化式學習實作\n14\n12/11\n⽣成模型基礎與實作\n15\n12/18\nTransformer模型基礎與實作\n16\n12/25\n大型語言模型基礎簡介\n17\n1/1\n生成式模型基礎與實作\n18\n1/8\n期末考",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n10\n5%\n1. 課堂中隨機進行點名。\n2. 點名過後，不再進行補點名。\n平時作業\n20\n30%\n1. 抄襲0分計算。\n2. 有Bug，分數為總分的一半。\n期中報告\n1\n30%\n1. 完成專題計畫書及基礎模型程式撰寫。\n2. 有Bug，分數為總分的一半。\n學期考\n1\n35%\n1. 完成專題實作報告及程式撰寫。\n2. 有Bug，分數為總分的一半。\n配分比率加總\n100%"
+        }
+    },
+    {
+        "course_code": "BDD40702",
+        "course_name": "專題實作",
+        "teacher": "何穗華",
+        "average_score": 89.58,
+        "score_distribution": {
+            "0~49": "0",
+            "75~79": "0",
+            "50~59": "0",
+            "80~84": "3",
+            "60~64": "0",
+            "85~89": "17",
+            "65~69": "1",
+            "90~94": "24",
+            "70~74": "0",
+            "95~100": "3"
+        },
+        "syllabus": {
+            "content": "●\n整體敘述 Overall Description\nIndependent study\n●分週敘述 Weekly Schedule\n週次 Wk\n日期 Date\n課程內容 Content\n備註 Note\n1\nIntroduction of independent study\n2\nLiterature review\n3\nLiterature review\n4\nPlanning a framework\n5\nModifying a framework\n6\nResearch design\n7\nMethodology\n8\nAnalytical strategies and programming\n9\nAnalytical strategies and programming\n10\nMidterm report\n11\nAnalytical strategies and programming\n12\nAnalytical strategies and programming\n13\nResults\n14\nResults\n15\nDiscussion\n16\nDiscussion\n17\nConclusion and future study\n18\nFinal report",
+            "grading": "本科目 ☑同意期末退修且不需面談輔導\n配分項目 Items\n次數 Times\n配分比率 Percentage\n配分標準說明 Grading Description\n出席\n25%\n進度報告\n25%\n期末成果\n50%\n配分比率加總\n100%"
+        }
+    }
+]
